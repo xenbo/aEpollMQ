@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="aeLevelDB"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aeLevelDB">
+				<Option output="/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/aeLevelDB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dongbo01/CLionProjects/test/aeLevelDB/."/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 aeLevelDB"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aeLevelDB/fast">
+				<Option output="/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/aeLevelDB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dongbo01/CLionProjects/test/aeLevelDB/."/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 aeLevelDB/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/dongbo01/CLionProjects/test/aeLevelDB/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/aEpoll/ae.cpp">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/aEpoll/ae.h">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/aePipe.cpp">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/aePipe.h">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/getcmdToAe.cpp">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/getcmdToAe.h">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/job.cpp">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/job.h">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/opleveldb.cpp">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/opleveldb.h">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/testAeMain.cpp">
+			<Option target="aeLevelDB"/>
+		</Unit>
+		<Unit filename="/home/dongbo01/CLionProjects/test/aeLevelDB/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
